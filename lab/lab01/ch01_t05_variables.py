@@ -1,1 +1,1 @@
-Todays_date = "2006-09-10"
+todays_date = "2006-09-10"
