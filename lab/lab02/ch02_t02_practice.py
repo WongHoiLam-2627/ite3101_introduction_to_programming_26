@@ -7,4 +7,4 @@
 # print(viking)
 caesar = "Graham"
 Set = "John"
-Set viking to "Teresa"
+Set viking "Teresa"
