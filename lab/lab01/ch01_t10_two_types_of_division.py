@@ -1,2 +1,2 @@
-cucumbers=100
-num_people= 6
+cucumbers = 100
+num_people = 6
