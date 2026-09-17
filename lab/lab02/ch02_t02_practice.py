@@ -6,5 +6,5 @@
 # print(praline)
 # print(viking)
 caesar = "Graham"
-Set = "John"
+praline = "John"
 viking = "Teresa"
