@@ -1,4 +1,4 @@
-bool_one = False
+bool_one = now.month, now.day, now.year
 
 bool_two = True
 
