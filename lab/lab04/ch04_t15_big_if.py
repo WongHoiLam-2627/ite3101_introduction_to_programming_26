@@ -1,6 +1,6 @@
 # Complete the if and elif statements!
 def grade_converter(grade: int) -> str:
-    if g:
+    if grade:
         return "A"
     elif None:
         return "B"
