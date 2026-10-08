@@ -4,4 +4,4 @@ det by_three (number):
     if number % 3 == 0:
         return cube(number)
     elif:
-        r
+        return False
