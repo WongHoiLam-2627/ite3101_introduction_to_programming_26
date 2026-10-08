@@ -1,3 +1,3 @@
 def cube(number):
     return number ** 3
-det by_
+det by_there
