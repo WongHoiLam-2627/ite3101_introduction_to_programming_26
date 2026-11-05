@@ -18,6 +18,6 @@ tyler = {
 }
 students = [lloyd, alice, tyler]
 print(student["name"])
-print the student's homework
-print the student's quizzes
-print the student's tests
+print student["homework"])
+print student's quizzes
+print student's tests
