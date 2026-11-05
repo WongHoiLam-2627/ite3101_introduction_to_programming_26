@@ -6,9 +6,9 @@ lloyd = {
 }
 alice = {
     "name": "Alice",
-    "homework": [100.0, 92.0, 98.0, 100.0],
-    "quizzes": [82.0, 83.0, 91.0],
-    "tests": [89.0, 97.0]
+    "homework": [],
+    "quizzes": [],
+    "tests": []
 }
 tyler = {
     "name": "Tyler",
