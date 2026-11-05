@@ -20,4 +20,4 @@ students = [lloyd, alice, tyler]
 print(student["name"])
 print(student["homework"])
 print(student["quizzes"])
-print(student[tests"])
+print(student["tests"])
