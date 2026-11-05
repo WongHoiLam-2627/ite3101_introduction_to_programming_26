@@ -19,6 +19,6 @@ tyler = {
 students = [lloyd, alice, tyler]
 print(["name"])
 print(students["homework"])
-print(student["quizzes"])
-print(student["tests"])
+print(students["quizzes"])
+print(students["tests"])
 print("-" * 20)
